@@ -12,16 +12,17 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4AF626&width=500&lines=2nd+Year+B.Tech+CSE+%40+NIT+Manipur;Learning+Python%2C+Java+and+C;Aspiring+Software+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4AF626&width=550&lines=3rd+Year+B.Tech+CSE+%40+NIT+Manipur;Aspiring+Software+Developer+%26+Cybersecurity+Enthusiast;Learning+Python%2C+Java+and+C" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🌱 About Me
-- 🎓 **B.Tech CSE, Class of 2027** at **NIT Manipur**  
+- 🎓 **3rd Year B.Tech CSE (2027)** at **NIT Manipur**  
+- 💻 **Aspiring Software Developer** & **Cybersecurity Enthusiast**  
 - 🔰 Beginner in **Python**, **Java**, and **C**  
-- ☁️ Exploring **Linux**, **system administration**, and **cloud computing**  
-- 🛠️ Passionate about building problem-solving skills through projects and open-source work.
+- ☁️ Exploring **Linux**, **System Administration**, and **Cloud Computing**  
+- 🛠️ Building strong **problem-solving & security skills** through projects and internships.
 
 ---
 
@@ -34,14 +35,14 @@
 - Issued **January 23, 2024**.
 
 #### 🌟 AcmeGrade
-- Successfully completed an **internship** with AcmeGrade.  
+- Successfully completed an **internship** with **AcmeGrade**.  
 - Gained **hands-on experience** in real-world projects and industry practices.  
 - Appreciation from mentor **Mr. Manoj** for consistent performance and dedication.
 
 #### 🌟 CDAC India
 - Grateful acknowledgment from **Centre for Development of Advanced Computing (CDAC)**  
   for the **opportunity to work and learn** in a professional research environment.  
-- Acquired exposure to **cutting-edge technologies** and team-based project work.
+- Acquired exposure to **cutting-edge technologies** and **team-based project work**.
 
 ---
 
@@ -52,6 +53,7 @@
   <img src="https://img.shields.io/badge/C-beginner-A8B9CC?logo=c&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-enthusiast-2F4F4F?style=for-the-badge"/>
 </p>
 
 ---
@@ -73,7 +75,7 @@
 
 ### 🎯 Goals
 - Contribute to **open-source projects** in 2025  
-- Strengthen **core programming skills** in Python, Java, and C  
+- Strengthen **core programming & cybersecurity skills**  
 - Build **real-world projects** that solve meaningful problems.
 
 ---
