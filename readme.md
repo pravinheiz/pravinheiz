@@ -12,7 +12,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4AF626&width=435&lines=2nd+Year+B.Tech+CSE+%40+NIT+Manipur;Learning+Python%2C+Java+and+C;Aspiring+Software+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4AF626&width=500&lines=2nd+Year+B.Tech+CSE+%40+NIT+Manipur;Learning+Python%2C+Java+and+C;Aspiring+Software+Developer" alt="Typing SVG" />
 </p>
 
 ---
@@ -21,7 +21,27 @@
 - 🎓 **B.Tech CSE, Class of 2027** at **NIT Manipur**  
 - 🔰 Beginner in **Python**, **Java**, and **C**  
 - ☁️ Exploring **Linux**, **system administration**, and **cloud computing**  
-- 🛠️ Building my problem-solving skills through small projects and open source.
+- 🛠️ Passionate about building problem-solving skills through projects and open-source work.
+
+---
+
+### 🏅 Achievements & Recognitions
+
+#### 🌟 NxtWave
+- **Certificate of Appreciation** for **leadership and initiative** in organizing the workshop  
+  _"AI for Students: Build Your Own Generative AI Model"_  
+- Recognized for **team coordination and successful execution** of the event.  
+- Issued **January 23, 2024**.
+
+#### 🌟 AcmeGrade
+- Successfully completed an **internship** with AcmeGrade.  
+- Gained **hands-on experience** in real-world projects and industry practices.  
+- Appreciation from mentor **Mr. Manoj** for consistent performance and dedication.
+
+#### 🌟 CDAC India
+- Grateful acknowledgment from **Centre for Development of Advanced Computing (CDAC)**  
+  for the **opportunity to work and learn** in a professional research environment.  
+- Acquired exposure to **cutting-edge technologies** and team-based project work.
 
 ---
 
@@ -51,10 +71,10 @@
 
 ---
 
-### 🏆 Achievements & Goals
-- Contribute to open-source projects in 2025  
-- Strengthen core programming skills  
-- Build creative and impactful applications.
+### 🎯 Goals
+- Contribute to **open-source projects** in 2025  
+- Strengthen **core programming skills** in Python, Java, and C  
+- Build **real-world projects** that solve meaningful problems.
 
 ---
 
@@ -76,8 +96,6 @@
 <p align="center">
   <em>"Learning never exhausts the mind." – Leonardo da Vinci</em>
 </p>
-
----
 
 <p align="center">
   🦇 Occasionally drops a <strong>Batman</strong> quote!
